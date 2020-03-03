@@ -1,0 +1,21 @@
+ 
+
+ body {
+    background-color: lightblue; 
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+   }
+  h2{
+      font-size: 400%
+  }
+  
+  .container-fluid{
+      background-color: lightgray;
+      text-decoration-color: black;
+  
+  }
+  p {
+    font: 15px arial, sans-serif;
+  }
+  .navbar-brand{
+      text-decoration-color: brown;
+  }
